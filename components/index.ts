@@ -5,8 +5,8 @@ import Footer from "./Footer";
 import SearchBar from "./SearchBar";
 import CustomFilter from "./CustomFilter";
 import SearchManufacturer from "./SearchManufacturer";
-import CardCard from "./CardCard";
-import CardDetails from "./CardDetails";
+import CarCard from "./CarCard";
+import CarDetails from "./CarDetails";
 
 export {
    Hero,
@@ -16,6 +16,6 @@ export {
    SearchBar,
    CustomFilter,
    SearchManufacturer,
-   CardCard,
-   CardDetails,
+   CarCard,
+   CarDetails,
 };
